@@ -34,11 +34,7 @@ Click on the extension icon in the Chrome toolbar.
 
 Use the popup to manage your blocked sites.
 
-Enjoy a distraction-free browsing experience!
-
-📷 Screenshots
-
-(Add some screenshots here for better visualization)
+Enjoy a distraction-free browsing experience.
 
 🤝 Contributing
 
