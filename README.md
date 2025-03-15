@@ -20,13 +20,18 @@ git clone https://github.com/shriday966/minimalistic-browser.git
 
 Extract the ZIP file (if downloaded as ZIP).
 
-Open Google Chrome and go to chrome://extensions/.
+Open Google Chrome and go to "chrome://extensions/".
 
 Enable Developer Mode (toggle at the top-right corner).
 
-Click Load unpacked and select the folder containing manifest.json.
+Click Load unpacked and select the folder that contains all the files including manifest.json.
 
 Your extension is now installed and ready to use! 🚀
+
+by default all the website will be blocked so allow "www.google.com" and then your disired site.
+
+make sure you write complete adress to unblock the website for example www.sitename.com.
+
 
 🛠 Usage
 
