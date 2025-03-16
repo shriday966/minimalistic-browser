@@ -32,6 +32,8 @@ by default all the website will be blocked so allow "www.google.com" and then yo
 
 make sure you write complete adress to unblock the website for example www.sitename.com.
 
+in future we are going to upgrade the extension and create an fully functional minimalistic browser for the peoples who love early internet era.
+
 
 🛠 Usage
 
